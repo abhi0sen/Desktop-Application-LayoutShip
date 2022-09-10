@@ -1,0 +1,81 @@
+.w5{
+    width: 50%;
+}
+.w2{
+    width: 20%;
+}
+textarea{
+    resize: none;
+    min-height: 500px;
+    max-height: 500px;
+    background-color: white;
+    /* font-family: "Lucida Sans Unicode"; */
+}
+
+.color button{
+    background-color: rgb(86, 85, 85);
+    color: white;
+}
+.height{
+    height: 600px;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.btn-file{
+    margin-right: 4px;
+}
+
+.padding{
+    padding-top: 5px;
+}
+
+#samp-list, #save-list{
+    display: none;
+}
+
+#files button, #add{
+    padding: 5px;
+    background-color: whitesmoke;
+    border: 1px solid rgb(87, 80, 80);
+    cursor: pointer;
+}
+
+#add{
+    border: none;
+}
+
+#size{
+    margin-right: 30px;
+}
+
+.display-none{
+    display: none;
+}
+
+.form{
+    margin: 200px;
+}
+
+iframe{
+    border: 1px solid rgb(73, 72, 72);
+    overflow-x: hidden;
+    word-wrap: break-word;
+}
+html, body {
+    max-width: 100%;
+    max-height: 100%;
+    overflow-x: hidden;
+    /* overflow-y: hidden; */
+}
+
+.end{
+    float :right;
+    right:    20px;
+/* top:   0; */
+}
+.end:hover{
+    color:white
+}
